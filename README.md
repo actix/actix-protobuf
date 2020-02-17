@@ -2,6 +2,8 @@
 
 Protobuf support for actix-web framework.
 
+**NOTICE: This repository has been archived. Please visit https://github.com/actix/actix-extras instead.**
+
 
 ## Example
 
